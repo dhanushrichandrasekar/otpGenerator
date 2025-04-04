@@ -9,6 +9,10 @@
 - ⚡ **Fast & Easy Setup**: Minimal configuration required to integrate SMTP.js.
 - 🎨 **Responsive UI**: Clean, modern design compatible with all devices.
 
+  ## 🎥 Demo
+
+🎬 **[Watch the Demo of OTP Generation ](https://github.com/dhanushrichandrasekar/otpGenerator/blob/f0ba430842bc23329d47f7c850d07ae914481340/OtpGeneratorDemo.mp4)**
+
 ## 🛠️ Technologies Used
 
 - **HTML5** – Structure
@@ -40,18 +44,12 @@
 - Adapts to all screen sizes (desktop, tablet, mobile)
 - Clean layout with intuitive user flow
 
-## 🎥 Demo
-
-🎬 **[Watch the Demo of OTP Generation ](https://github.com/dhanushrichandrasekar/otpGenerator/blob/f0ba430842bc23329d47f7c850d07ae914481340/OtpGeneratorDemo.mp4)**
-
 ## 📬 Contact
 
 💡 Have ideas or suggestions? Let’s connect!
 - 📧 Email: dhanushri1702@gmail.com
 - 📌 GitHub:  [Dhanushri Chandrasekar](https://github.com/dhanushrichandrasekar)  
 - 🔗 LinkedIn: https://www.linkedin.com/in/dhanushri17
-
-- 🌐 Portfolio: [yourwebsite.com](https://yourwebsite.com)
 
 ---
 
