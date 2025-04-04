@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>OTP GENERATOR</title>
+    <script src="https://smtpjs.com/v3/smtp.js"></script>
+    <link rel="stylesheet" href="style.css">
+    <link rel="icon" href="../assets/images/favicon.png">
+
+</head>
+<body>
+    <section>
+        <div class="container">
+            <h1>Email OTP</h1>
+            <div class="email">
+                <input id="email" type="email" placeholder="Enter your email" autocomplete="off" required>
+            </div>
+            <div class="email-verify" id="email-verify" style="display: none;">
+                <input id="otp-input" type="tel" placeholder="Enter OTP" autocomplete="off" required>
+                <button id="btn-verify-otp">Verify</button>
+            </div>
+            <button id="btn-send-otp" class="btn-send-otp">Send OTP</button>
+        </div>
+        <div>
+            <img src="../assets/images/gmail.png">
+        </div>
+    </section>
+    
+    <script src="script.js"></script>
+</body>
+</html>
