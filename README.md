@@ -9,9 +9,9 @@
 - ⚡ **Fast & Easy Setup**: Minimal configuration required to integrate SMTP.js.
 - 🎨 **Responsive UI**: Clean, modern design compatible with all devices.
 
-  ## 🎥 Demo
+## 🎥 Demo
 
-🎬 **[Watch the Demo of OTP Generation ](https://github.com/dhanushrichandrasekar/otpGenerator/blob/f0ba430842bc23329d47f7c850d07ae914481340/OtpGeneratorDemo.mp4)**
+  🎬 **[Watch the Demo of OTP Generation ](https://github.com/dhanushrichandrasekar/otpGenerator/blob/f0ba430842bc23329d47f7c850d07ae914481340/OtpGeneratorDemo.mp4)**
 
 ## 🛠️ Technologies Used
 
