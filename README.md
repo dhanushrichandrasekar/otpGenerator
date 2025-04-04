@@ -1,4 +1,4 @@
-# 📧 OTP Generation via Email using SMTP.js
+# 📧 OTP Generation and Verification via Email using SMTP.js
 
 🚀 This project is a simple and effective **OTP (One-Time Password)** generator and verifier built with **HTML**, **CSS**, and **JavaScript** using **SMTP.js** to send OTPs to users' email addresses.
 
